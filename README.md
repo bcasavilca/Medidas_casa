@@ -94,6 +94,11 @@ Medidas_casa/
 - 2025: junho com recorde de 476,4 mm (maior do Brasil)
 - 2026: primeiro semestre 23,2% acima da média, abril com 416 mm (quase o dobro da normal)
 
+**Notas sobre dados faltantes:**
+- O INMET publica balancetes mensais para Natal, mas nem todos os meses estão disponíveis online
+- Para 2025 (jul-dez) e 2026 (jan-jun exceto abril), os dados específicos mensais ainda não foram publicados ou não foram encontrados nas fontes acessíveis
+- O total de 2026 (1.381 mm) é um dado oficial da Defesa Civil de Natal
+
 ### Períodos Críticos para Natal
 
 | Período | Condição | Atenção |

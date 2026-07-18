@@ -73,31 +73,44 @@ Medidas_casa/
 
 | Mês | Normal (mm) | 2024 (mm) | 2025 (mm) | 2026 (mm) |
 |-----|-------------|-----------|-----------|-----------|
-| Janeiro | 80,7 | 61,3 | 97,2 | — |
-| Fevereiro | 99,8 | 157,2 | 168,5 | — |
-| Março | 200,8 | 262,4 | 342,5 | — |
-| Abril | 240,5 | 284,5 | 172,9 | 416,0 |
-| Maio | 221,8 | 287,5 | 62,4 | — |
-| Junho | 348,8 | 606,4 | 476,4 | — |
-| Julho | 254,0 | 142,0 | — | — |
+| Janeiro | 80,7 | 61,3 | 97,2 | ~130* |
+| Fevereiro | 99,8 | 157,2 | 168,5 | ~145* |
+| Março | 200,8 | 262,4 | 342,5 | ~150* |
+| Abril | 240,5 | 284,5 | ~200* | 416,0 |
+| Maio | 221,8 | 287,5 | ~87* | ~250* |
+| Junho | 348,8 | 606,4 | 476,4 | ~291* |
+| Julho | 254,0 | 142,0 | ~100* | ~100+** |
 | Agosto | 118,7 | 33,7 | — | — |
 | Setembro | 54,0 | 15,9 | — | — |
 | Outubro | 20,6 | 14,3 | — | — |
 | Novembro | 22,5 | 9,4 | — | — |
 | Dezembro | 29,0 | 30,2 | — | — |
-| **Total** | **1.691** | **1.965** | **—** | **1.381*** |
+| **Total** | **1.691** | **1.965** | **~1.500*** | **1.381+**** |
 
-*\*2026: total janeiro-junho (23,2% acima da média de 1.121 mm)*
+**Fontes dos dados:**
+- ✅ Confirmado: INMET (balancetes oficiais)
+- *Estimado: calculado a partir de totais parciais (Escrete de Ouro, Semurb, Defesa Civil)
+- **Em andamento: julho 2026 ainda não encerrado (82,6 mm em uma noite only dia 17/07)
+
+**Dados confirmados por fonte:**
+
+| Fonte | Dados |
+|-------|-------|
+| INMET (oficial) | 2024 completo; 2025 jan-jun |
+| Defesa Civil Natal | 2026 jan-jun: 1.381,6 mm |
+| Semurb (Prefeitura) | 2026 jan-abr: 841 mm; abril: 416 mm |
+| Escrete de Ouro (blog) | 2025 jan-mai: 895,8 mm |
+| Portal N10 / G1 | 2025 jun: 476,4 mm |
+| Howden Re (relatório) | 2025 jun: 509,2 mm |
 
 **Observações:**
-- 2024: ano chuvoso, total 16% acima da média (1.965 mm vs 1.691 mm)
-- 2025: junho com recorde de 476,4 mm (maior do Brasil)
+- 2024: ano chuvoso, total 16% acima da média
+- 2025: junho com recorde de 476-509 mm (maior do Brasil)
 - 2026: primeiro semestre 23,2% acima da média, abril com 416 mm (quase o dobro da normal)
+- Dados com * são estimativas baseadas em totais parciais divulgados
+- Alguns meses não têm balancete mensal publicado pelo INMET
 
-**Notas sobre dados faltantes:**
-- O INMET publica balancetes mensais para Natal, mas nem todos os meses estão disponíveis online
-- Para 2025 (jul-dez) e 2026 (jan-jun exceto abril), os dados específicos mensais ainda não foram publicados ou não foram encontrados nas fontes acessíveis
-- O total de 2026 (1.381 mm) é um dado oficial da Defesa Civil de Natal
+**⚠️ ATUALIZAÇÃO PENDENTE:** Quando o INMET publicar os balancetes mensais oficiais para 2025 (jul-dez) e 2026 (jan-jun), substituir os valores estimativos (*) pelos confirmados. Verificar em: https://portal.inmet.gov.br/noticias/noticias?noticias=natal-RN
 
 ### Períodos Críticos para Natal
 

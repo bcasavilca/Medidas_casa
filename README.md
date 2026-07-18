@@ -10,13 +10,23 @@ Projeto para documentar e organizar medidas de ambientes residenciais, facilitan
 
 **Infiltração de chuva** — O imóvel apresenta problemas de entrada de água da chuva que precisam ser identificados e corrigidos.
 
+### Pontos de Entrada de Água
+
+| Local | Problema |
+|-------|----------|
+| Quinas do telhado | Frestas nas junções |
+| Portas | Frestas na folha e batente |
+| Janelas | Frestas na folha e batente |
+| Tomadas | Furos nas paredes sem vedação |
+
 ### Ações Necessárias
 
-1. Identificar os pontos de infiltração
-2. Mapear as áreas afetadas
-3. Corrigir vedações e impermeabilização
-4. Verificar calhas, rufos e platibandas
-5. Documentar as medidas das áreas com problema
+1. Vedação das quinas do telhado com massa acrílica ou silicone
+2. Instalação de fita veda-fresta em portas e janelas
+3. Reaperto ou substituição de espelhos de tomadas
+4. Vedação de buracos nas paredes
+5. Verificar calhas, rufos e platibandas
+6. Documentar as medidas das áreas com problema
 
 ## Ambientes de Referência
 

@@ -71,22 +71,28 @@ Medidas_casa/
 
 ### Dados Climáticos de Natal/RN
 
-| Mês | Precipitação Média (mm) | Temperatura (°C) |
-|-----|--------------------------|------------------|
-| Janeiro | 85 | 25-28 |
-| Fevereiro | 107 | 25-28 |
-| Março | 155 | 25-28 |
-| Abril | 187 | 25-28 |
-| Maio | 157 | 24-28 |
-| Junho | 160 | 24-27 |
-| Julho | 142 | 23-26 |
-| Agosto | 64 | 23-26 |
-| Setembro | 42 | 24-27 |
-| Outubro | 34 | 24-27 |
-| Novembro | 35 | 25-28 |
-| Dezembro | 52 | 25-28 |
+| Mês | Normal (mm) | 2024 (mm) | 2025 (mm) | 2026 (mm) |
+|-----|-------------|-----------|-----------|-----------|
+| Janeiro | 80,7 | 61,3 | 97,2 | — |
+| Fevereiro | 99,8 | 157,2 | 168,5 | — |
+| Março | 200,8 | 262,4 | 342,5 | — |
+| Abril | 240,5 | 284,5 | 172,9 | 416,0 |
+| Maio | 221,8 | 287,5 | 62,4 | — |
+| Junho | 348,8 | 606,4 | 476,4 | — |
+| Julho | 254,0 | 142,0 | — | — |
+| Agosto | 118,7 | 33,7 | — | — |
+| Setembro | 54,0 | 15,9 | — | — |
+| Outubro | 20,6 | 14,3 | — | — |
+| Novembro | 22,5 | 9,4 | — | — |
+| Dezembro | 29,0 | 30,2 | — | — |
+| **Total** | **1.691** | **1.965** | **—** | **1.381*** |
 
-**Total anual:** 1.261 a 1.691 mm
+*\*2026: total janeiro-junho (23,2% acima da média de 1.121 mm)*
+
+**Observações:**
+- 2024: ano chuvoso, total 16% acima da média (1.965 mm vs 1.691 mm)
+- 2025: junho com recorde de 476,4 mm (maior do Brasil)
+- 2026: primeiro semestre 23,2% acima da média, abril com 416 mm (quase o dobro da normal)
 
 ### Períodos Críticos para Natal
 

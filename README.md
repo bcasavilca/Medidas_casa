@@ -61,6 +61,59 @@ Medidas_casa/
 - [ ] Listar materiais necessários para correção
 - [ ] Estimar custos
 
+## Previsão Climática e Períodos de Chuva
+
+### Localização
+
+- **Endereço:** Benjamin Ferreira de Brito, 21, Natal, RN
+- **Região:** Nordeste do Brasil (zona litorânea)
+- **Clima:** Tropical úmido com seca no segundo semestre
+
+### Dados Climáticos de Natal/RN
+
+| Mês | Precipitação Média (mm) | Temperatura (°C) |
+|-----|--------------------------|------------------|
+| Janeiro | 85 | 25-28 |
+| Fevereiro | 107 | 25-28 |
+| Março | 155 | 25-28 |
+| Abril | 187 | 25-28 |
+| Maio | 157 | 24-28 |
+| Junho | 160 | 24-27 |
+| Julho | 142 | 23-26 |
+| Agosto | 64 | 23-26 |
+| Setembro | 42 | 24-27 |
+| Outubro | 34 | 24-27 |
+| Novembro | 35 | 25-28 |
+| Dezembro | 52 | 25-28 |
+
+**Total anual:** 1.261 a 1.691 mm
+
+### Períodos Críticos para Natal
+
+| Período | Condição | Atenção |
+|---------|----------|---------|
+| **Fev a Jul** | **Chuvoso** (86% do total anual) | Pico em junho (até 360 mm) |
+| **Ago a Dez** | **Seco** (14% do total anual) | Mínimo em outubro (4 mm) |
+
+### Previsão El Niño 2026/2027 para Natal
+
+- **Probabilidade:** >80% de El Niño forte até fevereiro de 2027
+- **Impacto em Natal:** chuvas podem ficar acima da média no litoral nordestino
+- **Risco:** intensificação de ventos marítimos e chuvas de greater intensidade
+- **Temperatura:** acima da média (até +1-2°C)
+
+### Recomendações para Correção de Infiltação
+
+| Prioridade | Ação | Prazo Sugerido |
+|------------|------|----------------|
+| **Alta** | Vedação de quinas do telhado | Até agosto (antes do pico) |
+| **Alta** | Vedação de portas e janelas | Até agosto |
+| **Média** | Reaperto de tomadas | Até setembro |
+| **Média** | Verificação de calhas e rufos | Até setembro |
+| **Média** | Impermeabilização de paredes | Até setembro |
+
+**Atenção:** Em Natal, o período de maior risco de infiltração é de **fevereiro a julho**, com pico em **junho**. As correções devem ser concluídas antes de **agosto**.
+
 ## Contribuindo
 
 Pull requests são bem-vindos. Para grandes alterações, abra uma issue primeiro.
@@ -68,3 +121,5 @@ Pull requests são bem-vindos. Para grandes alterações, abra uma issue primeir
 ## Contato
 
 **bcasavilca** — [GitHub](https://github.com/bcasavilca)
+
+**Endereço:** Benjamin Ferreira de Brito, 21, Natal, RN

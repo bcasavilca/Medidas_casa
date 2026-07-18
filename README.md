@@ -189,3 +189,63 @@ Pull requests são bem-vindos. Para grandes alterações, abra uma issue primeir
 | Ordinária | 15 anos (com justo título e boa-fé) |
 | Extraordinária | 15 anos (sem justo título) |
 | Urbana específica | 5 anos (imóvel até 250 m², residência própria) |
+
+### 5. Prevenção contra El Niño 2026/2027
+
+**Ações preventivas antes de outubro (início do pico):**
+
+| Prioridade | Ação | Custo estimado |
+|------------|------|----------------|
+| Alta | Vedação de quinas do telhado | R$ 50-150 |
+| Alta | Fita veda-fresta em portas/janelas | R$ 30-80 |
+| Alta | Reaperto de tomadas | R$ 20-50 |
+| Média | Calhas e rufos | R$ 100-300 |
+| Média | Impermeabilização parede externa | R$ 200-500 |
+
+**Materiais necessários:**
+- Massa acrílica para telhado (R$ 15-30/kg)
+- Silicone vedador (R$ 10-20/carreteiro)
+- Fita veda-fresta (R$ 15-30/rolo)
+- Espelhos de tomada novos (R$ 5-15/unidade)
+
+### 6. Seguro Residencial — Como Proteger a Casa
+
+**O que o seguro cobre:**
+- Cobertura básica obrigatória: incêndio, explosão, queda de raio
+- Coberturas adicionais importantes:
+  - Alagamento/inundação (⚠️ NÃO é automática, precisa contratar à parte)
+  - Vendaval e granizo
+  - Danos por água (vazamentos, rompimento de tubulações)
+  - Danos elétricos (quedas de energia)
+  - Responsabilidade civil (vazamento que atinge vizinhos)
+
+**⚠️ IMPORTANTE sobre alagamento:**
+- Menos de 0,14% das residências no Brasil têm cobertura para alagamento
+- A cobertura NÃO é automática — precisa ser contratada como adicional
+- Muitas seguradoras restringem ou não aceitam essa cobertura em áreas de risco
+- Contrate ANTES dos alertas climáticos — seguradoras não aceitam inclusão após início de alerta
+
+**Como contratar:**
+1. Avalie o valor do imóvel e dos bens
+2. Consulte um corretor de seguros especializado
+3. Inclua cobertura para alagamento/inundação
+4. Leia a apólice com atenção (exclusões e franquias)
+5. Mantenha registros de manutenção preventiva (fotos, orçamentos)
+
+**Documentos para acionar o seguro:**
+- Laudo técnico de engenheiro/arquiteto
+- Fotos e vídeos dos danos
+- Registros de manutenções preventivas
+- Orçamentos de reparo
+
+**Custo médio:**
+- Seguro residencial básico: R$ 200-600/ano (~R$ 17-50/mês)
+- Com cobertura para alagamento: pode ser mais elevado
+
+**Seguradoras que oferecem cobertura para alagamento (2026):**
+- Porto Seguro
+- Bradesco Seguros
+- Tokio Marine
+- Outras 7 seguradoras (total: 10 no mercado)
+
+**Dica:** Contrate o seguro AGORA antes do agravamento do El Niño. As seguradoras podem não aceitar novas apólices ou aumentar o prêmio quando os alertas climáticos estiverem ativos.

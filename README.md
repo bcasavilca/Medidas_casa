@@ -147,3 +147,45 @@ Pull requests são bem-vindos. Para grandes alterações, abra uma issue primeir
 **bcasavilca** — [GitHub](https://github.com/bcasavilca)
 
 **Endereço:** Benjamin Ferreira de Brito, 21, Natal, RN
+
+---
+
+## Orienteção — Problemas a Resolver
+
+### 1. Correção de Chuva (Infiltração)
+- [ ] Vedação de quinas do telhado (massa acrílica/silicone)
+- [ ] Fita veda-fresta em portas e janelas
+- [ ] Reaperto/substituição de espelhos de tomadas
+- [ ] Verificação de calhas, rufos e platibandas
+- [ ] Impermeabilização de paredes
+
+### 2. Usucapião (Regularização da Posse)
+- [ ] Retirar matrícula atualizada no Cartório de Registro de Imóveis
+- [ ] Listar vizinhos confrontantes (frente, trás, lados)
+- [ ] Reunir comprovantes de posse:
+  - Contas de luz, água, telefone
+  - IPTU
+  - Cadastro na prefeitura
+  - Fotos da ocupação ao longo dos anos
+- [ ] Contratar advogado especialista em direito imobiliário
+- [ ] Notificação dos vizinhos:
+  - Carta registrada com AR
+  - Oficial de Justiça (se não encontrado)
+  - Edital em jornal (se necessário)
+- [ ] Ação de usucapião no judicial
+
+### 3. Documentos Necessários
+| Documento | Onde obter |
+|-----------|-----------|
+| Matrícula do imóvel | Cartório de Registro de Imóveis |
+| RG e CPF | Polícia Federal / Poupatempo |
+| Comprovantes de residência | Concessionárias (CPFL, Copasa, etc.) |
+| IPTU em dia | Prefeitura de Natal |
+| Certidão negativa | Cartório / Internet |
+
+### 4. Prazos Importantes
+| Tipo de Usucapião | Prazo de Posse |
+|-------------------|----------------|
+| Ordinária | 15 anos (com justo título e boa-fé) |
+| Extraordinária | 15 anos (sem justo título) |
+| Urbana específica | 5 anos (imóvel até 250 m², residência própria) |
